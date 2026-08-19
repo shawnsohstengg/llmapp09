@@ -1,0 +1,3 @@
+docker login -u shawnsoh
+
+dckr_pat_BPdf46fXY8UvG_PuigkbASyMBrU
