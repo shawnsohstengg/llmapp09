@@ -1,2 +1,2 @@
  ## 1. lllmapp09
- This is the readme file for workshop llmapp09.
+ This is workshop NUS Course Deploy Agentic AI course, workshop llmapp09.
